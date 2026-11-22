@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Aya Nabil | Full Stack Developer Portfolio
+
+A modern, responsive, bilingual personal portfolio built with Next.js.  
+Showcasing my skills, projects, professional experience, certificates, and services.
 
 ## Getting Started
 
-First, run the development server:
+First, install the project dependencies:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+npm install
+
+
+Run the development server:
+
+
+
+
+
+
+You can start editing the page by modifying `src/app/page.js` or the relevant page inside the App Router structure.
+
+The page automatically updates as you edit the files.
+
+## Tech Stack
+
+- **Frontend:** Next.js, React.js
+- **Styling:** Tailwind CSS
+- **Programming Language:** JavaScript
+- **HTTP Client:** Axios
+- **Icons:** Lucide React
+- **Animations:** Framer Motion
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+## Main Features
+
+- Responsive and modern UI.
+- English and Arabic language support.
+- Projects showcase.
+- Professional experience.
+- Skills and certificates.
+- Services section.
+- Technical blog.
+- Contact form.
+- CV download.
+- Admin Dashboard for content management.
+
+## Project Structure
+
+```text
+src/
+├── app/
+├── components/
+├── services/
+├── lib/
+├── hooks/
+├── utils/
+├── context/
+└── validations/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Development
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project is currently under development.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+New features, improvements, and integrations will be added throughout the development process.
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+The frontend will be deployed using [Vercel](https://vercel.com/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The backend and database will be configured separately.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
+**Aya Nabil Elsayed**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- GitHub: [Ayanabilelsayed](https://github.com/Ayanabilelsayed)
+- LinkedIn: [Aya Nabil](https://www.linkedin.com/in/aya-nabil-861720380/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+Built with passion and continuous learning.
